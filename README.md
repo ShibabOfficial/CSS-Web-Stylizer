@@ -1,4 +1,4 @@
-![github](WSC.png =250x250)
+![github](WSC.png[width=250px])
 
 # CSS-Web-Stylizer
 Almost the same as bootstrap but better
