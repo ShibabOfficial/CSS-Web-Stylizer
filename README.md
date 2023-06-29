@@ -1,4 +1,4 @@
-<img src="WSC.png" width=50% height=50%>
+<img src="WSC.png" width=40% height=40%>
 
 # CSS-Web-Stylizer
 Almost the same as bootstrap but better
