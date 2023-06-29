@@ -5,7 +5,7 @@ Almost the same as bootstrap but better
 
 # Docs
 ## Importing
-```Linking
+```html
     <head>
         ...
         <link rel="stylesheet" href="https://shibabofficial.github.io/style/css/style.css">
@@ -18,7 +18,7 @@ Almost the same as bootstrap but better
 ```
 
 # Examples
-```Example with navbar
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
