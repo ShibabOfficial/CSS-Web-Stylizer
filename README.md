@@ -7,12 +7,12 @@ Almost the same as bootstrap but better
 ## Importing
 ```html
     <head>
-        ...
+        <!--Your Code-->
         <link rel="stylesheet" href="https://shibabofficial.github.io/style/css/style.css">
-        ...
+        <!--Your Code-->
     </head>
     <body>
-        ...
+        <!--Your Code-->
         <script src="https://shibabofficial.github.io/style/js/main.js"></script>
     <body>
 ```
