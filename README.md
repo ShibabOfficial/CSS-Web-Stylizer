@@ -18,6 +18,7 @@ Almost the same as bootstrap but better
 ```
 
 # Examples
+## Empty Template
 ```html
 <!DOCTYPE html>
 <html lang="en">
